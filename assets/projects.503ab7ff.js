@@ -1,1 +1,0 @@
-import{_ as e,c,o as t}from"./index.9d6dbeca.js";const o={},n={class:"grid place-content-center text-4xl"};function s(r,a){return t(),c("main",n," soon.. ")}const l=e(o,[["render",s]]);export{l as default};
