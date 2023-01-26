@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as c,a as o}from"./index-acba78d7.js";const s={},n={class:"grid grid-cols-12 grid-rows-[max-content_1fr] place-content-center text-4xl"},r=o("aside",null,null,-1),a=[r];function _(l,d){return c(),t("main",n,a)}const f=e(s,[["render",_]]);export{f as default};
